@@ -1,12 +1,12 @@
 # 稳定币之王
 USDT 是基于比特币的，层次关系为 bitcoin core 再上一层为 Omni core ，所以比特币地址就是usdt地址
-# 开始
-1.git clone 
-2.go run USDT.go
+## 开始
+1. git clone 
+2. go run USDT.go
 或者
-1.go build USDT.go   编译
-2.window .\USDT.go  linux ./USDT  运行
-# 实例
+1. go build USDT.go   编译
+2. window .\USDT.go  linux ./USDT  运行
+## 实例
 ```shell
 C:\Users\Asus\Desktop\github\address_go\USDT>go run USDT.go
 =======================

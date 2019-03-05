@@ -1,12 +1,12 @@
 # 比特现金
 正太，这不用说了，说起来都是泪，当时ABC 和BSV 撕逼的时候导致的惨案
-# 开始
-1.git clone 
-2.go run BCH.go
+## 开始
+1. git clone 
+2. go run BCH.go
 或者
-1.go build BCH.go   编译
-2.window .\BCH.go  linux ./BCH  运行
-# 实例
+1. go build BCH.go   编译
+2. window .\BCH.go  linux ./BCH  运行
+## 实例
 ```shell
 C:\Users\Asus\Desktop\github\address_go\Bitcoincash>go run BCH.go
 =======================

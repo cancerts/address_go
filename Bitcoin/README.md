@@ -1,11 +1,11 @@
 # 比特币
 创建比特币账户，显示私钥、钱包导入格式私钥、公钥、地址
 ## 开始
-1.git clone 
-2.go run bitcoin.go
+1. git clone 
+2. go run bitcoin.go
 或者
-1.go build bitcoin.go   编译
-2.window .\bitcoin.go  linux ./bitcoin  运行
+1. go build bitcoin.go   编译
+2. window .\bitcoin.go  linux ./bitcoin  运行
 
 ## 实例
 ```shell
