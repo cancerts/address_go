@@ -1,2 +1,12 @@
-# address_go
-create the digital currency accounts application with go
+# 莱特币
+比特金莱特银，不做机枪池
+# 开始
+1.
+2.
+3.
+# 实例
+```shell
+
+在开始之前我会让你先看看效果的，alright
+
+```

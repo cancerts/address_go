@@ -1,2 +1,12 @@
-# address_go
-create the digital currency accounts application with go
+# 瑞波币
+之后的人你不会相信我在PayPal花了20🔪激活我的xrp账户，不过，最近听说，使用火币钱包可以免费激活了，6
+# 开始
+1.
+2.
+3.
+# 实例
+```shell
+
+在开始之前我会让你先看看效果的，alright
+
+```
